@@ -1,0 +1,15 @@
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\bin\Debug\net6.0\task_034.exe
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\bin\Debug\net6.0\task_034.deps.json
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\bin\Debug\net6.0\task_034.runtimeconfig.json
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\bin\Debug\net6.0\task_034.dll
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\bin\Debug\net6.0\task_034.pdb
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.csproj.AssemblyReference.cache
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.AssemblyInfoInputs.cache
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.AssemblyInfo.cs
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.dll
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\refint\task_034.dll
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.pdb
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\task_034.genruntimeconfig.cache
+C:\Users\User\Documents\java\c#\Seminar_001\task_034\obj\Debug\net6.0\ref\task_034.dll
